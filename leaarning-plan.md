@@ -3,6 +3,8 @@
 
 >Based on Emmanuel Okechukwu's career goals, interests, and current skills (as outlined in the document), I have compiled a list of recommended courses, certifications, and learning paths that he should complete in the next three months. The recommendations are tailored to his interest in Google marketing, web development, AI, and full-stack development, as well as his passion for becoming proficient in digital marketing. Here's a detailed learning plan:
 
+---
+
 ### 1. **Google Skillshop**:
    - **Google Ads Certification**:
      - **Estimated Time**: 10-12 hours
@@ -114,4 +116,4 @@ By following this roadmap, Emmanuel should be able to enhance his web developmen
 
 Let me know if you'd like further customization!
 
-##### *Thanks burnt-exe!* 🥇
+##### ![*Thanks burnt-exe!*](https://github.com/burnt-exe) 🥇
