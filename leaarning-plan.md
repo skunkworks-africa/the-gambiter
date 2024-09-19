@@ -1,3 +1,6 @@
+# Learning path for the-gambiter
+---
+
 >Based on Emmanuel Okechukwu's career goals, interests, and current skills (as outlined in the document), I have compiled a list of recommended courses, certifications, and learning paths that he should complete in the next three months. The recommendations are tailored to his interest in Google marketing, web development, AI, and full-stack development, as well as his passion for becoming proficient in digital marketing. Here's a detailed learning plan:
 
 ### 1. **Google Skillshop**:
@@ -110,3 +113,5 @@ The markdown structure can be directly used for readability, and images will enh
 By following this roadmap, Emmanuel should be able to enhance his web development and marketing skills, gain practical experience, and position himself better for roles in digital marketing and full-stack development.
 
 Let me know if you'd like further customization!
+
+##### *Thanks burnt-exe!* 🥇
