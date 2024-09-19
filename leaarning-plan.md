@@ -110,10 +110,12 @@
 ![Salesforce](https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg?w=1334&h=750)
 ![CompTIA](https://comptiacdn.azureedge.net/webcontent/images/default-source/mainsitetemplateimages/comptia_logo_cmyk36b98240e2b544eabe240e93e723777e.svg?sfvrsn=da0cc6d4_2)
 
-The markdown structure can be directly used for readability, and images will enhance the presentation.
+---
 
-By following this roadmap, Emmanuel should be able to enhance his web development and marketing skills, gain practical experience, and position himself better for roles in digital marketing and full-stack development.
+>By following this roadmap, Emmanuel should be able to enhance his web development and marketing skills, gain practical experience, and position himself better for roles in digital marketing and full-stack development.
 
-Let me know if you'd like further customization!
+---
+
+"Let me know if you'd like further customization!"
 
 ##### [*Thanks burnt-exe!*](https://github.com/burnt-exe) 🥇
